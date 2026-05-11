@@ -52,7 +52,7 @@ Train the agent for multiple episodes to improve balancing performance.
 
 # Program
 
-```
+```python
 
 import numpy as np
 import gymnasium as gym
